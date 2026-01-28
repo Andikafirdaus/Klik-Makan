@@ -168,7 +168,7 @@ APK akan ada di: build/app/outputs/flutter-apk/app-release.apk
 4. **Konfirmasi Pembayaran** - Verifikasi bukti transfer dari user
 5. **Update Status Pesanan** - Dari "Diproses" → "Dikirim" → "Selesai"
 
-## 👥 Develpoe Team
+## 👥 Developer Team
 
 | Role | Nama | Kontribusi |
 |------|------|------------|
@@ -181,7 +181,7 @@ APK akan ada di: build/app/outputs/flutter-apk/app-release.apk
 
 ## 📄 Hak Cipta & Lisensi
 
-**© 2024 Klik Makan** - Semua Hak Dilindungi
+**© 2026 Klik Makan** - Semua Hak Dilindungi
 
 Aplikasi ini dilisensikan di bawah **Lisensi MIT**.
 ## 📞 Kontak & Dukungan Teknis
